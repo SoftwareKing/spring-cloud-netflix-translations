@@ -2,6 +2,5 @@
 
 * [概述](overview.md)
 * [Service Discovery: Eureka Clients](service-discovery-eureka-client.md)
-    * [Writing is nice](part1/writing.md)
-
+    * [Registering with Eureka](registering-with-eureka.md)
 * [Service Discovery: Eureka Server](service-discovery-eureka-server.md)
